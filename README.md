@@ -2,7 +2,7 @@
 
 Code examples for blog post: Build an AI-powered Shopping Catalog with SerpApi's Bing Copilot API and Shopping API
 
-You can read the blog post here: serpapi.com/blog/build-an-ai-powered-shopping-catalog-with-serpapi-and-python
+You can read the blog post here: https://serpapi.com/blog/build-an-ai-powered-shopping-catalog-with-serpapi-and-python/
 
 ---
 
@@ -36,7 +36,7 @@ For a persona_query:
 "Christmas gift ideas for a tech savvy teenager in 2025 who likes smart home gadgets and gaming"
 ```
 
-The resulting CSV look like this:
+The resulting CSV looks like this:
 
 <img width="904" height="258" alt="Screenshot 2025-12-02 at 5 01 11 PM" src="https://github.com/user-attachments/assets/482c50f9-4c58-4709-b844-9ffa295eddec" />
 
